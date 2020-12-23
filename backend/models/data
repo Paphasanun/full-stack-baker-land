@@ -1,0 +1,97 @@
+Filter 1: "Shape",
+- Normal, 0
+- Tall, 50
+
+Filter 2: "Size",
+- 1 Pound, 0
+- 2 Pounds, 100
+- 3 Pounds, 200
+- 5 Pounds, 350
+
+Filter 3: "Flour",
+- Butter cake, 0
+- Sponge cake, 50
+- Multigrains, 100
+- Cheese cake, 100
+- Almond flour, 250
+
+Filter 4: "Sweetness",
+- Sugar, 100% sweetness, 0
+- Sugar, 75% sweetness, 0
+- Sugar, 50% sweetness, 0
+- Stevia, 100% sweetness, 30
+- Stevia, 75% sweetness, 30
+- Stevia, 50% sweetness, 30
+
+Filter 5: "Layer",
+- 1 layer, 0
+- 2 layers, 0
+- 3 layers, 50
+- 4 layers, 70
+- 5 layers, 100
+
+Filter 6: "Flavor",
+- Chocolate
+- Vanilla
+- Hokkaido Milk
+- Butter
+- Coffee
+- Orange
+- Red velvet
+- Carrot
+
+Filter 7: "Filling",
+- Fresh Cream, 0
+- Milk Butter Cream, 0
+- Coffee Butter Cream, 0
+- Chocolate Butter Cream, 0
+- Berry Jam, 0
+- Orange Jam, 0
+- Chocolate Fudge, 20
+- Fresh Cream Non-fat, 20
+- Cream Cheese, 40
+
+Filter 8: "Add-on Filling",
+- None, 0
+- Oreo crunch, 30
+- Crumble, 50
+- Mix Nuts, 50
+- Dark Chocolate Flakes, 50
+- Fresh Strawberry, 100
+- Fresh Mix Fruits, 100
+
+Filter 9: "Frosting",
+- Milk Butter Cream, 0
+- Coffee Butter Cream, 0
+- Chocolate Butter Cream, 0
+- Orange Jam, 0
+- Berry Jam, 0
+- Fresh Cream, 30
+- Fresh Cream Non-fat, 50
+- Cream Cheese, 50
+- Chocolate Ganache, 50
+
+Filter 10: "Dressing",
+- None, 0
+- Chocolate Sauce, 50
+- Berry Sauce, 50
+- Orange Sauce, 50
+- Whipping Cream, 50
+
+Filter 11: "Topping",
+- None, 0
+- Whipping Cream and Cherry, 20
+- Whipping Cream and Chocolate, 20
+- Whipping Cream and Strawberry, 50
+- Fresh Strawberry, 100
+- Fresh Mix Fruits, 100
+- Chocolate Set, 100
+- Almond Special, 100
+
+
+
+-----------------------
+
+District,
+-
+
